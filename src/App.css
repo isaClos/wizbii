@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Cherry+Bomb|Sorts+Mill+Goudy&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Sorts Mill Goudy', serif !important;
+}
+ul {
+  list-style: none !important;
+}
+
+.blocActu {
+  background-color: lightgray;
+  margin-top: 10px;
+  border: gray 0.5px solid;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 5px 10px 10px #888888;
+}
+
+.titreActu {
+  font-family: 'Cherry Bomb', cursive;
+  color: midnightblue;
+}
+
+.dateActu {
+  font-family: 'Acme', sans-serif;
+}
